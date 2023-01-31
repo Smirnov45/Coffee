@@ -1,0 +1,52 @@
+@media screen  and (max-width:1200px) {
+    .navbar-left-img
+    {
+        width: 50px;
+    }
+    .navbar-left a 
+    {
+        font-size: 12px;
+    }
+
+    .navbar-right-find-a-store img 
+    {
+        width: 30px;
+    }
+
+    .navbar-right-find-a-store
+    {
+        font-size: 12px;
+    }
+
+    .container
+    {
+        width: 1000px;
+        margin-left: 9%;
+        height: 850px;
+    }
+}
+
+@media screen and (max-width:992px)
+{
+    .container
+    {
+        width: 800px;
+        margin-left: 4rem;
+    }
+    .product-left-img-coffee
+    {
+       margin-top: 6rem;
+    }
+    .product-left-img-croissant-img {
+        max-width: 45%;
+        margin-top: 18rem;
+    }
+    .navbar-right-join-now,.navbar-right-sing-in
+    {
+        padding: 5px 15px;
+    }
+    .navbar-right
+    {
+        padding-right: 70px;
+    }
+}
